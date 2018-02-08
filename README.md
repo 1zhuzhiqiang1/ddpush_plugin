@@ -1,5 +1,5 @@
 # ddpush_plugin
-为DDPush推送写的cordova插件
+为DDPush推送写的cordova插件，可以用于android的消息推送，IM的开发
 
 DDPush官网：http://www.ddpush.net/overview
 
